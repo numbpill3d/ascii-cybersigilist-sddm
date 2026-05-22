@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Terminal Red
+Description=Minimal black/red terminal SDDM theme. Braille ASCII art header, animated Russian/Japanese loneliness poetry marquees on both screen edges, auto-detects all installed sessions (X11 + Wayland), correct X11/WAYLAND badge via SDDM named roles. Hard corners, Terminus font aesthetic.
+Author=deadgirl (numbpill3d) — original base by Splicer Scorn (voidrane.nekoweb.org)
+Email=deadgirl2133@gmail.com
+Copyright=(c) 2025 Splicer Scorn, (c) 2026 deadgirl
+License=CC-BY-SA
+Type=sddm-theme
+Version=2.0
+Website=https://github.com/numbpill3d
+MainScript=Main.qml
+ConfigFile=theme.conf
+Screenshot=preview.png
+Theme-Id=terminal-red
+Theme-API=2.0
+QtVersion=6
