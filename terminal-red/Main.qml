@@ -172,10 +172,10 @@ Rectangle {
         text: "⠀⠀⢀⣤⡶⣾⠛⠛⠛⢻⡷⢶⣤⣀⠀⠀⠀⠀⠀⠀⣠⣾⠋⠁⣀⡼⠇⢰⡶⠾⠇⣀⠈⢙⣷⣄⠀⠀⠀\n⣴⠏⠉⣿⠂⠹⣆⠀⢸⡇⠀⣰⠏⠛⠞⠁⠹⣧⠀⣸⣏⣀⡘⠳⣤⣠⡾⣿⢻⡟⣿⢷⣄⣤⠾⢷⣀⣽⣇⣿⠉⢹⣇\n⣀⣠⣿⣛⣾⣿⣿⣷⣛⣿⣄⣀⣈⡉⠀⣿⣿⠀⣈⡉⠉⠙⣿⣭⢿⣿⣿⡿⣭⣿⠋⠉⢹⣇⣀⣿⢹⣟⠉⢷⡶⠛⠙⢷\n⣿⣼⣧⣿⡾⠋⠛⢦⡌⠉⣹⡏⠀⢻⣆⠀⣴⣤⣠⠟⠀⢸⡇⠀⠹⣆⠠⣿⣀⣰⡟⠀⠀⠀⠙⢿⣅⡀⠉⢰⡶⠾⠇\n⢰⡞⠉⢀⣠⡿⠋⠀⠀⠀⠀⠀⠀⠈⠛⠷⢾⣧⣤⣤⣤⡿⠾⠛⠁⠀⠀⠀⠀"
 
         color: "#8B0000"
-        font.family: "Monospace"
+        font.family: "Adwaita Mono"
         font.pixelSize: 14
         lineHeight: 0.85
-        horizontalAlignment: Text.AlignHCenter
+        horizontalAlignment: Text.AlignLeft
     }
 
     // ── login box ─────────────────────────────────────────────────────────────
